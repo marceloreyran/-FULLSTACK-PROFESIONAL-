@@ -1645,3 +1645,4 @@ GITHUB:
 LINKEDIN:
 ├─ [✓] 120+ posts técnicos
 ├─ [✓] 1,
+|- [by Marcelo Reyna Rangel]
