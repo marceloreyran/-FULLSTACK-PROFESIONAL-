@@ -1648,6 +1648,7 @@ LINKEDIN:
 |- [by Marcelo Reyna Rangel 2026.........]
 |- [!]
 |- [!!!!]
+## Esta es la ruta pra poder ser Fullstack!!
 
 
 
