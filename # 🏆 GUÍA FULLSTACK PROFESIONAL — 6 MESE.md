@@ -1650,6 +1650,4 @@ LINKEDIN:
 |- [!!!!]
 ## Esta es la ruta pra poder ser Fullstack!!
 
-
-
-
+|- [2026.........]
